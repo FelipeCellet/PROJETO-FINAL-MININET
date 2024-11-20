@@ -33,7 +33,7 @@
 ![customnormal](https://github.com/user-attachments/assets/9f2c05cf-9604-461f-a322-f562660011eb)
 
 
-4 - pingall normal switches
+4 - pingall switchs normais 
 
 ![custompingall](https://github.com/user-attachments/assets/99f4a282-7db4-485e-929c-fba19174fa96)
 
