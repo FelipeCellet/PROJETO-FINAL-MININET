@@ -24,7 +24,6 @@
 
   - dump -> Para visualizar o IP de todos os hosts:
   - net -> Para visualizar a conectividade entre os nós, incluindo endereços IP e portas conectadas:
-  - 
 ![dump+net](https://github.com/user-attachments/assets/21351602-e877-4977-8e26-18cbd98faf7c)
 
 
