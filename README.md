@@ -3,9 +3,10 @@
 # C115 - MININET
  MININET
 1. Criação da topologia com o comando
- - sudo mn --mac --topo tree,depth=4,fanout=2 --link tc,bw=25
+ - sudo -E mn --mac --topo linear,8 --link tc,bw=30
 
-![criandotopologiaputty](https://github.com/user-attachments/assets/aab36748-5260-4a7a-9126-35e967d16417)
+![CRIANDOTOPOLOGIA](https://github.com/user-attachments/assets/33e631d3-d556-4158-8b5b-33610117c57d)
+
 
 
 2. Inspeção de informações das interfaces, endereços MAC, IP e portas
@@ -62,6 +63,13 @@ f)  25
 
 g) 30
 ![30M](https://github.com/user-attachments/assets/a7a748e8-60a1-4a78-9a13-86623c37bbdc)
+
+
+5 - Diagrama da topologia 
+
+![DIAGRAMA](https://github.com/user-attachments/assets/8ed17677-d8c2-41f0-b86d-8271ad48c298)
+
+
 
 
 
