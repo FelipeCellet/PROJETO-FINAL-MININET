@@ -35,6 +35,16 @@
 
 ![nodes+pingallcustom](https://github.com/user-attachments/assets/235fca32-4a08-4463-ac31-e2f03e42e5a4)
 
+3 - Definindo Switchs como normal
+
+![normalcustom](https://github.com/user-attachments/assets/46073102-7be4-4907-850e-f7fe5b56d095)
+
+4 - pingall normal switches
+
+![pingallnormalswitches](https://github.com/user-attachments/assets/ddc1f8b6-1e13-4f16-867a-19544b8adaa1)
+
+
+
 
 
 
