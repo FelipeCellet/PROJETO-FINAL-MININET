@@ -4,7 +4,7 @@
  MININET
 1. Criação da topologia com o comando
 
-![custom topo](https://github.com/user-attachments/assets/465b92a0-8d65-4652-9fa7-bf03565c7570)
+![criandotopocustom](https://github.com/user-attachments/assets/c3d15d86-05ab-4764-861b-91d25989c652)
 
 
 
@@ -14,34 +14,28 @@
 
    - h1 ifconfig -> Para listar as interfaces de um host
 
-![h1+h2custom](https://github.com/user-attachments/assets/98c4ccef-7d50-4288-b030-4cf437a23805)
+![h1+h2+h3](https://github.com/user-attachments/assets/22097d4c-fc8c-4d29-a73e-4dd63ecac3f8)
 
+![h4](https://github.com/user-attachments/assets/04dc5233-4afb-47c3-9cfd-f516443104a9)
 
-![h3+h4custom](https://github.com/user-attachments/assets/7bae5569-de22-46ca-b11e-85ae554ebd78)
-
-![h5+h6custom](https://github.com/user-attachments/assets/54105f49-4234-4ba3-a39f-6801c367d949)
-
-
-![h7custom](https://github.com/user-attachments/assets/6b8cb6a4-66f9-4bd8-bafc-a1f3bbf72400)
+![h5+h6+h7](https://github.com/user-attachments/assets/0757946a-15e4-41f8-9bab-6ce69138cb28)
 
 
   - dump -> Para visualizar o IP de todos os hosts:
   - net -> Para visualizar a conectividade entre os nós, incluindo endereços IP e portas conectadas:
-  - 
-![dump+netcustom](https://github.com/user-attachments/assets/5942e5cf-ddab-4aad-95dc-4fbb3334534d)
+  - Testes de ping entre diferentes nós
 
+![dump+net+pingall](https://github.com/user-attachments/assets/a27e19a6-a194-4600-b811-2e6e259854b7)
 
- - Testes de ping entre diferentes nós
-
-![nodes+pingallcustom](https://github.com/user-attachments/assets/235fca32-4a08-4463-ac31-e2f03e42e5a4)
 
 3 - Definindo Switchs como normal
 
-![normalcustom](https://github.com/user-attachments/assets/46073102-7be4-4907-850e-f7fe5b56d095)
+![customnormal](https://github.com/user-attachments/assets/9f2c05cf-9604-461f-a322-f562660011eb)
+
 
 4 - pingall normal switches
 
-![pingallnormalswitches](https://github.com/user-attachments/assets/ddc1f8b6-1e13-4f16-867a-19544b8adaa1)
+![custompingall](https://github.com/user-attachments/assets/99f4a282-7db4-485e-929c-fba19174fa96)
 
 
 
